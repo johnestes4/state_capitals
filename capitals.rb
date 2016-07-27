@@ -1,5 +1,5 @@
 # an array of state hashes
-states =[{
+$states =[{
     name: "Alabama",
     capital: "Montgomery"
 }, {
